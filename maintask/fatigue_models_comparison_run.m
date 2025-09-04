@@ -16,7 +16,7 @@ NFT_length = 75; % how many trials in the NFT part of the experiment
 FT_length = 180; % how many trials in the fatigue part of the experiment
 
 %% What files need to be loaded?
-SubjectArray = [2 3 4 5 6 7 8 9 10 11 12 13 14 15 17 18 19 21 22 23 24 25 27 28 29 31 32 33 34 35 36 37 38 39 40 41]; % HC 41 ceiling
+SubjectArray = [2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 21 22 23 24 25 27 28 29 31 32 33 34 35 36 37 38 39 40];
 filename = {'test_HC'} ;  
 session = {'_HC.mat'};        
 
